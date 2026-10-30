@@ -107,13 +107,13 @@ My immediate goal is to secure a **PFE Internship** (end-of-studies project) in:
 
 | Certification | Organization | Year |
 |---|---|---|
-| **Google Cybersecurity Professional Certificate** | Google (Coursera) | 2024 |
-| **IBM Front-End Developer Professional Certificate** | IBM (Coursera) | 2024 |
-| **Introduction to Bash & Shell Scripting** | DataCamp | 2024 |
-| **Python for Developers Track (13 Courses)** | DataCamp | 2024 |
-| **DevOps & Containerization (Docker, Virtualization)** | DataCamp | 2024 |
-| **Understanding Prompt Engineering** | DataCamp | 2024 |
-| **Certification en Cybersécurité** | In Progress | 2024 |
+| **Google Cybersecurity Professional Certificate** | Google (Coursera) | 2026 |
+| **IBM Front-End Developer Professional Certificate** | IBM (Coursera) | 2026 |
+| **Introduction to Bash & Shell Scripting** | DataCamp | 2026 |
+| **Python for Developers Track (13 Courses)** | DataCamp | 2026 |
+| **DevOps & Containerization (Docker, Virtualization)** | DataCamp | 2026 |
+| **Understanding Prompt Engineering** | DataCamp | 2026 |
+| **Certification en Cybersécurité** | In Progress | 2026 |
 
 ---
 
